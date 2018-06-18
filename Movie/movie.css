@@ -1,0 +1,30 @@
+body{
+	background-color: brown;
+}
+
+
+#movieBox{
+	align-self: center;
+	width: 200px;
+	height: 300px;
+	background-color: blue;
+	margin: 0 auto;
+}
+
+#movieSearch{
+	align-self: center;
+	width: 90px;
+	height: 20px;
+	background-color: orange;
+	align-self: center;
+	margin: 0 auto;
+
+}
+
+#inputforMovie{
+	align-self: center;
+	width: 150px;
+	height: 10px;
+	text-orientation: all;
+	margin: 0 auto;
+}
